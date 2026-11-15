@@ -1,0 +1,22 @@
+{
+  "name": "codecrafthub",
+  "version": "1.0.0",
+  "description": "Personal learning goal tracker API",
+  "homepage": "https://github.com/GFJankavs/codecrafthub#readme",
+  "bugs": {
+    "url": "https://github.com/GFJankavs/codecrafthub/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GFJankavs/codecrafthub.git"
+  },
+  "type": "commonjs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^5.3.0"
+  }
+}
