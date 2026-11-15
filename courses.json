@@ -1,1 +1,82 @@
-[]
+[
+  {
+    "id": 1,
+    "name": "JavaScript Essentials",
+    "description": "Variables, functions, arrays, objects and the basics of the DOM",
+    "target_date": "2026-08-31",
+    "status": "Completed",
+    "created_at": "2026-06-02T08:15:42.118Z"
+  },
+  {
+    "id": 2,
+    "name": "Git and GitHub",
+    "description": "Commits, branches, merging, pull requests and resolving conflicts",
+    "target_date": "2026-09-15",
+    "status": "Completed",
+    "created_at": "2026-06-10T17:40:05.903Z"
+  },
+  {
+    "id": 3,
+    "name": "Node.js Fundamentals",
+    "description": "Learn the basics of Node.js, npm, modules and the event loop",
+    "target_date": "2026-10-31",
+    "status": "Completed",
+    "created_at": "2026-08-20T19:02:11.457Z"
+  },
+  {
+    "id": 4,
+    "name": "REST APIs with Express",
+    "description": "Routing, middleware, HTTP methods, status codes and input validation",
+    "target_date": "2026-12-15",
+    "status": "In Progress",
+    "created_at": "2026-10-05T09:22:27.601Z"
+  },
+  {
+    "id": 5,
+    "name": "SQL and Relational Databases",
+    "description": "Tables, joins, indexes and writing queries with PostgreSQL",
+    "target_date": "2027-01-31",
+    "status": "In Progress",
+    "created_at": "2026-10-18T14:48:36.270Z"
+  },
+  {
+    "id": 6,
+    "name": "React Basics",
+    "description": "Components, props, state, hooks and building a small single-page app",
+    "target_date": "2027-02-28",
+    "status": "In Progress",
+    "created_at": "2026-11-01T11:05:59.832Z"
+  },
+  {
+    "id": 7,
+    "name": "Testing with Jest",
+    "description": "Unit tests, mocking and testing Express endpoints with Supertest",
+    "target_date": "2027-03-15",
+    "status": "Not Started",
+    "created_at": "2026-11-08T20:31:14.064Z"
+  },
+  {
+    "id": 8,
+    "name": "Docker for Developers",
+    "description": "Images, containers, Dockerfiles and running apps with Docker Compose",
+    "target_date": "2027-04-30",
+    "status": "Not Started",
+    "created_at": "2026-11-10T07:56:48.519Z"
+  },
+  {
+    "id": 9,
+    "name": "TypeScript Fundamentals",
+    "description": "Types, interfaces, generics and adding TypeScript to a Node.js project",
+    "target_date": "2027-05-31",
+    "status": "Not Started",
+    "created_at": "2026-11-12T16:19:03.745Z"
+  },
+  {
+    "id": 10,
+    "name": "Cloud Deployment Basics",
+    "description": "Deploying a Node.js API to the cloud with environment variables and logging",
+    "target_date": "2027-06-30",
+    "status": "Not Started",
+    "created_at": "2026-11-14T10:42:21.388Z"
+  }
+]
